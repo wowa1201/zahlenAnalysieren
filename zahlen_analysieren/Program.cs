@@ -17,7 +17,7 @@ namespace Main
     {
         public static void Main(string[] args)
         {
-
+            Console.WriteLine("Zahlen analysieren.")
         }
     }
 }
